@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
         - name: zuric-weather-app
-          image: roeddev/zurich-weather-app:1.0
+          image: roeddev/gitops-k8s-deployments:1.0
           ports:
             - containerPort: 8080
