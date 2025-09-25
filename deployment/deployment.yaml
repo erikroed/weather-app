@@ -18,4 +18,4 @@ spec:
         - name: zuric-weather-app
           image: roeddev/gitops-k8s-deployments:main
           ports:
-            - containerPort: 8080
+            - containerPort: 8081
